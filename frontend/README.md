@@ -1,4 +1,3 @@
-# FullStackApp
 
 A full-stack application built with Next.js (TypeScript) for the frontend and FastAPI (Python) for the backend.
 
